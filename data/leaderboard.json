@@ -1,0 +1,15 @@
+{
+  "updated_at": 1655358053370,
+  "holders": [
+    {
+      "address": "0x52d7Bb43F054B67cc6c08aebE4E1DE662082DD4E",
+      "pieces_owned": "10",
+      "ens_name": "None"
+    },
+    {
+      "address": "0x2F7757347EB709D25CFC37a21f21E9922F33D4eC",
+      "pieces_owned": "3",
+      "ens_name": "None"
+    }
+  ]
+}
