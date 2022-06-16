@@ -18,7 +18,7 @@ const intervalFunc = setInterval(() => {
 app.use(express.static(__dirname + '/data'));
 app.use("/data", express.static(__dirname + '/data'));
 
-const port = 3000
+const port = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
   res.send('Hello Crypto!')
